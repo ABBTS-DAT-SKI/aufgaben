@@ -9,5 +9,8 @@ Aufgaben für das Modul DAT-SKI.
 | ┗📜 02_Datenformate.ipynb
 ┣📂 SW3
 ┃ ┗📜 01_Spalten.ipynb
+┣📂 SW3
+┃ ┣📜 01-duplikate-fehlende_werte-ausreisser.ipynb
+| ┗📜 02-timeindex.ipynb
 ┗📂 data
 ```
