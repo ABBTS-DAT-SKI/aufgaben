@@ -15,6 +15,7 @@ Aufgaben für das Modul DAT-SKI.
 ┣📂 SW5
 ┃ ┗📜 01-imputation-joins.ipynb
 ┣📂 SW6
-┃ ┗📜 01-univariate-eda.ipynb
+┃ ┣📜 01-univariate-eda.ipynb
+┃ ┗📜 02-upsampling-downsampling.ipynb
 ┗📂 data
 ```
