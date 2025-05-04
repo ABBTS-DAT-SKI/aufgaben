@@ -12,5 +12,9 @@ Aufgaben für das Modul DAT-SKI.
 ┣📂 SW4
 ┃ ┣📜 01-duplikate-fehlende_werte-ausreisser.ipynb
 | ┗📜 02-timeindex.ipynb
+┣📂 SW5
+┃ ┗📜 01-imputation-joins.ipynb
+┣📂 SW6
+┃ ┗📜 01-univariate-eda.ipynb
 ┗📂 data
 ```
